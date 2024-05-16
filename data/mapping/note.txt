@@ -1,0 +1,4 @@
+Aqui se guardarán los mapping, que
+que son archivos JSON descriptivos de
+la estructura de tablas de una base de
+datos.
