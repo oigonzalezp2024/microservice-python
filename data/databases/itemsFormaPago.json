@@ -1,0 +1,8 @@
+[
+  {
+    "codFormaPago": "string",
+    "plazoDias": "string",
+    "fechaVencimiento": "string",
+    "valor": "string"
+  }
+]
