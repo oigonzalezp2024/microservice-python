@@ -1,0 +1,51 @@
+[
+    {
+        "databaseName": "database",
+        "tableName": "itemsPedido",
+        "fieldsTypes": {
+            "codMat": "str",
+            "codBodega": "str",
+            "codTalla": "str",
+            "codColor": "str",
+            "cantidad": "int",
+            "tipoUnidad": "str",
+            "descuento": "int",
+            "centrosCostos": "str",
+            "porcIva": "int",
+            "valor": "int",
+            "impConsumo": "int",
+            "observacion": "str",
+            "venta_id": "int"
+        },
+        "fieldsLong": {
+            "codMat": 50,
+            "codBodega": 50,
+            "codTalla": 50,
+            "codColor": 50,
+            "cantidad": 11,
+            "tipoUnidad": 50,
+            "descuento": 11,
+            "centrosCostos": 50,
+            "porcIva": 11,
+            "valor": 11,
+            "impConsumo": 11,
+            "observacion": 50,
+            "venta_id": 11
+        },
+        "example": {
+            "codMat": "string",
+            "codBodega": "00",
+            "codTalla": "string",
+            "codColor": "string",
+            "cantidad": 0,
+            "tipoUnidad": "M \u00c3\u00b3 D",
+            "descuento": 0,
+            "centrosCostos": "string",
+            "porcIva": 0,
+            "valor": 0,
+            "impConsumo": 0,
+            "observacion": "string",
+            "venta_id": 11
+        }
+    }
+]
