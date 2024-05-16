@@ -1,0 +1,45 @@
+[
+    {
+        "databaseName": "database",
+        "tableName": "venta",
+        "fieldsTypes": {
+            "codPrefijo": "str",
+            "numero": "str",
+            "fecha": "str",
+            "codTercero": "str",
+            "codVendedor": "str",
+            "codDespachar": "str",
+            "codFormaPago": "str",
+            "codBanco": "str",
+            "fechaVence": "str",
+            "plazoDias": "int",
+            "observacion": "str"
+        },
+        "fieldsLong": {
+            "codPrefijo": 50,
+            "numero": 50,
+            "fecha": 50,
+            "codTercero": 50,
+            "codVendedor": 50,
+            "codDespachar": 50,
+            "codFormaPago": 50,
+            "codBanco": 50,
+            "fechaVence": 50,
+            "plazoDias": 11,
+            "observacion": 50
+        },
+        "example": {
+            "codPrefijo": "00",
+            "numero": "string",
+            "fecha": "dd/MM/yyyy",
+            "codTercero": "00",
+            "codVendedor": "string",
+            "codDespachar": "string",
+            "codFormaPago": "string",
+            "codBanco": "00",
+            "fechaVence": "dd/MM/yyyy",
+            "plazoDias": 0,
+            "observacion": "string"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "databaseName": "database",
+        "tableName": "itemsDescuentos",
+        "fieldsTypes": {
+            "codconcepto": "str",
+            "valordto": "str",
+            "baseretd": "str",
+            "porcretd": "str",
+            "porivad": "str",
+            "centrocostos": "str",
+            "codarea": "str",
+            "venta_id": "int"
+        },
+        "fieldsLong": {
+            "codconcepto": 50,
+            "valordto": 50,
+            "baseretd": 50,
+            "porcretd": 50,
+            "porivad": 50,
+            "centrocostos": 50,
+            "codarea": 50,
+            "venta_id": 11
+        },
+        "example": {
+            "codconcepto": "string",
+            "valordto": "string",
+            "baseretd": "0",
+            "porcretd": "0",
+            "porivad": "0",
+            "centrocostos": "00",
+            "codarea": "00",
+            "venta_id": 11
+        }
+    }
+]

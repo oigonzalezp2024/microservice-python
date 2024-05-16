@@ -1,0 +1,27 @@
+[
+    {
+        "databaseName": "database",
+        "tableName": "itemsFormaPago",
+        "fieldsTypes": {
+            "codFormaPago": "str",
+            "plazoDias": "str",
+            "fechaVencimiento": "str",
+            "valor": "str",
+            "venta_id": "int"
+        },
+        "fieldsLong": {
+            "codFormaPago": 50,
+            "plazoDias": 50,
+            "fechaVencimiento": 50,
+            "valor": 50,
+            "venta_id": 11
+        },
+        "example": {
+            "codFormaPago": "string",
+            "plazoDias": "string",
+            "fechaVencimiento": "string",
+            "valor": "string",
+            "venta_id": 11
+        }
+    }
+]
