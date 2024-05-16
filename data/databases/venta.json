@@ -1,0 +1,15 @@
+[
+  {
+    "codPrefijo": "00",
+    "numero": "string",
+    "fecha": "dd/MM/yyyy",
+    "codTercero": "00",
+    "codVendedor": "string",
+    "codDespachar": "string",
+    "codFormaPago": "string",
+    "codBanco": "00",
+    "fechaVence": "dd/MM/yyyy",
+    "plazoDias": 0,
+    "observacion": "string"
+  }
+]

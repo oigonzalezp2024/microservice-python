@@ -1,0 +1,16 @@
+[
+  {
+    "codMat": "string",
+    "codBodega": "00",
+    "codTalla": "string",
+    "codColor": "string",
+    "cantidad": 0,
+    "tipoUnidad": "M ó D",
+    "descuento": 0,
+    "centrosCostos": "string",
+    "porcIva": 0,
+    "valor": 0,
+    "impConsumo": 0,
+    "observacion": "string"
+  }
+]
