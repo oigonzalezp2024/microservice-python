@@ -31,7 +31,7 @@ acción sea optimizar o agregar un proceso aplicable a nivel general de todos lo
 En la carpeta "project" se debe desarrollar la lógica del
 microservicio.
 
-![alt text](image.png)
+![alt text](./images/image-1.png)
 
 ### Demo
 Por seguridad informática se debe establecer las credenciales de forma secreta.
@@ -60,10 +60,7 @@ class Connector:
 ```
 
 ## Carpeta Project
-En la carpeta project se debe configurar la lógica del desarrollo de cada microservicio.  
-
-![alt text](image.png)
-
+En la carpeta project se debe configurar la lógica del desarrollo de cada microservicio.   
 ## Archivo main.py
 El proyecto se ha configurado de manera simulativa a partir
 de un ejemplo de integración a bases de datos relacionales,
